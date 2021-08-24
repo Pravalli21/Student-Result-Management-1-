@@ -16,5 +16,5 @@ https://youtu.be/w_L8yUeioqQ
 ## Screenshot
 
 <a href="https://pravalli21.github.io/Student-Result-Management-1-/index.html">
- <img src="https://i2.wp.com/ytimg.googleusercontent.com/vi/OxRs0ctCgCc/hqdefault.jpg"/>
+ <img src="https://pravalli21.github.io/Student-Result-Management-1-/"/>
 </a>
