@@ -16,5 +16,5 @@ https://youtu.be/x2lxC-AAf_k
 ## Screenshot
 
 <a href="https://pravalli21.github.io/Student-Result-Management-1-/index.html">
- <img src="https://res.cloudinary.com/css-tricks/image/fetch/w_1200,q_auto,f_auto/https://css-tricks.com/wp-content/uploads/2020/11/math-random.png"/>
+ <img src="https://i.pinimg.com/originals/2c/3b/7e/2c3b7e885e3032e9522bcfe1912dcf9d.gif"/>
 </a>
